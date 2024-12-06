@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![UMS5_Phone Stand 2 0 v2 - UltiMaker Cura 06-12-2024 09_32_44 AM](https://github.com/user-attachments/assets/62a7c4e7-261a-4da9-a041-ac20ff269007)
 
-### Name:
-### Register Number:
+### Name:S Sesha Raghavan
+### Register Number:24900320
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
